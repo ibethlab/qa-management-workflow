@@ -33,5 +33,8 @@ Integrada de forma nativa en la sección de *Issues* para el control exhaustivo 
 | **REQ-003** | Gobierno de datos y respuestas API | API REST | `api_test.cy.js` -> Status 200 OK | ✅ Pasado |
 | **REQ-004** | Mitigación de brechas de seguridad | DevSecOps | `Jenkinsfile` -> Stage: Security Scan | ✅ Pasado |
 
+## 🚀 Enlaces de Ejecución Técnica
+Los artefactos de código, el pipeline automatizado de 5 etapas y los scripts de ejecución headless para Cypress correspondientes a esta estrategia se encuentran en el repositorio de ingeniería: [Software Lifecycle Suite](https://github.com/ibethlab/software-lifecycle-suite).
+
 ---
 *Este repositorio centraliza el gobierno de calidad y la documentación de control de calidad del proyecto estrella.*
