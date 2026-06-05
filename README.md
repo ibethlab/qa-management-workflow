@@ -10,7 +10,7 @@ Estrategia global de gestión de calidad, gobierno de pruebas de software y matr
 ## 2. Tablero de Gestión (Kanban Board)
 Monitoreo activo del ciclo de vida del testing y control de defectos mediante GitHub Projects:
 
-![Tablero de Gestión de QA](tablero-qa.jpeg)
+![Tablero de Gestión de QA](tablero-qasw.jpeg)
 
 ## 3. Plantillas de Documentación (QA Templates)
 
